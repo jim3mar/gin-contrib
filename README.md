@@ -24,3 +24,4 @@ Each author is responsible of maintaining his own code, although if you submit a
 + [gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin Framework
 + [gin-sessions](https://github.com/kimiazhu/ginweb-contrib/tree/master/sessions) - session middleware based on mongodb and mysql
 + [gin-location](https://github.com/drone/gin-location) - middleware for exposing the server's hostname and scheme
++ [gin-jsonp](https://github.com/jim3mar/gin-jsonp) - JSONP Middleware for Gin Framework
